@@ -1,0 +1,15 @@
+This program will allow the user to find the nth term of a fibonacci number series
+Declare the variables currentterm,nextterm,previousterm,nthterm,i as integers
+Ask the user to enter which term they want
+Input:nthterm
+Store the number as nthterm
+Initialize the terms: previousterm=0,currentterm=1
+For i=1 to nthterm
+Assign  nextterm=currentterm+previousterm
+	previousterm=currentterm
+	currentterm=nextterm
+end for loop
+Print previousterm
+end
+ 
+	

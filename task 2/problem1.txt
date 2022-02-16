@@ -1,0 +1,14 @@
+This program will allow the user to check whether the number is divisible by 3
+Declare the variables number,remainder as real numbers and
+Declare quotient as integer
+Ask the user to enter the number
+Input:number
+Assign quotient=number/3
+	remainder=(number/3)-quotient
+if remainder is equal to 0 
+	print "true"
+else
+	print "false"
+end
+
+
