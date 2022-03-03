@@ -31,5 +31,7 @@ For such kind of situations __**Cinemania**__ is used.
 *  To introduce a **voice assistant** which will guide users through the website
 * To add more **content** to the website 
 * __Collaboration__ with ad companies
+ 
+ ![screenshot of preview]("C:\Users\sahas\OneDrive\Desktop\cognizance tasks\task 6 part-2\preview screen shot.png")
 
 
