@@ -32,6 +32,8 @@ For such kind of situations __**Cinemania**__ is used.
 * To add more **content** to the website 
 * __Collaboration__ with ad companies
  
+ ![screen shot of preview](https://github.com/SahasraReddy22/Cognizance/blob/main/tak%206%20part%202%20preview%20screen%20shot.png)
+ 
  
 
 
